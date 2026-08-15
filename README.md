@@ -330,6 +330,4 @@ I also enjoy building hands-on labs, experimenting with new architectures, and t
 </p>
 
 ---
-<p align="center"> 
-🌐 <b><i>Let’s connect smarter.</i></b> 🛡️ <b><i>Secure every path.</i></b> ⚙️ <b><i>Engineer for reliability, availability, and scalability.</i></b>  
-</p>
+🌐 ***Route smarter |*** 🛡️ ***Secure every path |*** ⚙️ ***Engineer for reliability, availability, and scalability***
