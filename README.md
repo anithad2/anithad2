@@ -22,7 +22,7 @@ I'm a **Network Engineer with 5+ years of experience** supporting enterprise LAN
 I focus on building and maintaining **secure, resilient, highly available, and observable network environments** across enterprise infrastructure and cloud platforms.
 
 -🌐 Enterprise LAN/WAN & MPLS Networking
-🔀 BGP, OSPF & EIGRP Routing
+-🔀 BGP, OSPF & EIGRP Routing
 🛡️ Firewalls, VPNs & Network Security
 ☁️ AWS, Azure & GCP Networking
 📡 Network Monitoring & Performance Analysis
