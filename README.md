@@ -21,14 +21,14 @@ I'm a **Network Engineer with 5+ years of experience** supporting enterprise LAN
 
 I focus on maintaining **secure, resilient, and highly available network environments** across enterprise data centers and cloud platforms.
 
-- 🌐 Enterprise LAN/WAN & MPLS Networking
-- 🔀 BGP, OSPF & EIGRP Routing
-- 🛡️ Firewalls, VPNs & Network Security
-- ☁️ AWS, Azure & GCP Networking
-- 📡 Network Monitoring & Performance Analysis
-- 🤖 Python, Ansible & Terraform Automation
-- 🔍 Packet Analysis & Root Cause Troubleshooting
-- 🏢 High Availability & Network Resiliency
+🌐 Enterprise LAN/WAN & MPLS Networking
+🔀 BGP, OSPF & EIGRP Routing
+🛡️ Firewalls, VPNs & Network Security
+☁️ AWS, Azure & GCP Networking
+📡 Network Monitoring & Performance Analysis
+🤖 Python, Ansible & Terraform Automation
+🔍 Packet Analysis & Root Cause Troubleshooting
+🏢 High Availability & Network Resiliency
 
 ---
 
@@ -190,7 +190,7 @@ I focus on maintaining **secure, resilient, and highly available network environ
 
 ---
 
-## 🚀 Featured Projects
+## Projects
 
 ### ☁️ Cloud Network Automation
 
