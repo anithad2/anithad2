@@ -280,10 +280,13 @@ Designed a resilient enterprise network architecture using redundant routing, fi
 
 ## 🎓 Certifications
 
- 🛡️ **CompTIA Security+**
- 🌐 **Cisco CCNA**
- 🔐 **Certified Ethical Hacker (CEH) — uCertify**
- 🤖 **Oracle Generative AI**
+🛡️ **CompTIA Security+**
+
+🌐 **Cisco CCNA**
+
+🔐 **Certified Ethical Hacker (CEH)**  
+
+🤖 **Oracle Generative AI**
 
 ### 📚 Currently Preparing For
 
