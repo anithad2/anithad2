@@ -21,34 +21,58 @@ I'm a **Network Engineer with 5+ years of experience** supporting enterprise LAN
 
 I focus on building and maintaining **secure, resilient, highly available, and observable network environments** across enterprise infrastructure and cloud platforms.
 
--🌐 Enterprise LAN/WAN & MPLS Networking
--🔀 BGP, OSPF & EIGRP Routing
-🛡️ Firewalls, VPNs & Network Security
-☁️ AWS, Azure & GCP Networking
-📡 Network Monitoring & Performance Analysis
-🤖 Python, Ansible & Terraform Automation
-🔍 Packet Analysis & Root Cause Troubleshooting
-🏢 High Availability & Network Resiliency
+- 🌐 **Enterprise LAN/WAN & MPLS Networking**
+
+- 🔄 **BGP, OSPF & EIGRP Routing**
+
+- 🛡️ **Firewalls, VPNs & Network Security**
+
+- ☁️ **AWS, Azure & GCP Networking**
+
+- 📡 **Network Monitoring & Performance Analysis**
+
+- 🤖 **Python, Ansible & Terraform Automation**
+
+- 🔍 **Packet Analysis & Root Cause Troubleshooting**
+
+- 🏢 **High Availability & Network Resiliency**
 
 ---
 
 ## 🚧 Currently Working On
 
-🤖 Building network automation workflows using **Python & Ansible**
-☁️ Automating AWS and Azure network infrastructure using **Terraform**
-🌐 Practicing advanced routing designs with **BGP, OSPF, MPLS & EVPN/VXLAN**
-🔐 Building hands-on labs around **Zero Trust & enterprise network security**
-📡 Improving network observability using **Wireshark, SNMP, NetFlow, SolarWinds & PRTG**
-⚙️ Creating reusable networking and infrastructure automation projects for GitHub
+- 🤖 **Building network automation workflows** using Python, Ansible, APIs, and infrastructure automation practices.
+
+- ☁️ **Automating AWS and Azure network infrastructure** using Terraform for repeatable and consistent deployments.
+
+- 🌐 **Practicing advanced routing and data center designs** with BGP, OSPF, MPLS, EVPN/VXLAN, and leaf-spine architectures.
+
+- 🔐 **Building hands-on Zero Trust and enterprise network security labs** focused on segmentation, secure access, and policy enforcement.
+
+- 📡 **Improving network observability and troubleshooting** using Wireshark, SNMP, NetFlow, SolarWinds, and PRTG.
+
+- ⚙️ **Creating reusable networking and automation projects** to document practical network engineering solutions on GitHub.
 
 ---
 
 ## 🏆 Achievements & Honors
 
-🎓 Completed a **Master of Science in Cybersecurity & Networks**
-🎓 Upsilon Pi Epsilon (UPE) Induction — April 2026
-💰 Academic Excellence Cash Award
- 
+- 🏅 **Upsilon Pi Epsilon (UPE) Induction — April 2026**  
+  Recognized for academic excellence in computing and cybersecurity.
+
+- 🎖️ **Provost Scholarship — 75% Tuition Award**  
+  Awarded a 75% scholarship for my master’s program based on academic merit.
+  
+- 💰 **Academic Excellence Cash Award**  
+  Awarded for outstanding academic performance for my undergraduate's program.
+
+- 🏆 **HCL Technologies — Network Engineering Achievement**  
+  Recognized for improving network reliability and supporting timely resolution of complex infrastructure issues.
+
+- 🏆 **Wells Fargo — Network Engineering Achievement**  
+  Contributed to secure, highly available network operations and improved troubleshooting across enterprise environments.
+
+
 
 ---
 
@@ -209,9 +233,6 @@ I focus on building and maintaining **secure, resilient, highly available, and o
 </details>
 
 ---
-## Certifications
-🛡️ Earned the **CompTIA Security+ Certification**
-🛡️Earned the **CCNA Certification** 
 
 ## 🚀 Network Engineering Projects
 
@@ -250,12 +271,15 @@ Designed a resilient enterprise network architecture using redundant routing, fi
 
 ---
 
-## 🌱 Currently Learning & Exploring
-💡 I’m building AI-assisted network automation workflows using Python, Ansible, APIs, and telemetry to reduce repetitive tasks and speed up troubleshooting.
+## 🌱 Currently Exploring
 
-⚡ I’m expanding my knowledge of AI-ready data center networking, including EVPN/VXLAN, high-speed Ethernet, leaf-spine fabrics, and scalable architectures for AI workloads.
+- ⚡ **Studying AI-ready data center networking** including EVPN/VXLAN fabrics, high-speed Ethernet, scalable leaf-spine designs, and modern network architectures for AI workloads.
+  
+- 💡 I'm **building AI-assisted network automation workflows** using Python, Ansible, APIs, and telemetry to reduce repetitive operational tasks and speed up troubleshooting.
 
-🧠 I’m exploring Agentic NetOps, autonomous operations, and Zero Trust networking to improve incident analysis, automated remediation, segmentation, NAC, and policy-driven access.
+- 🧠 I’m exploring **Agentic NetOps**, **autonomous operations**, and **Zero Trust networking** to improve incident analysis, automated remediation, segmentation, NAC, and policy-driven access.
+
+- 🔐 **Strengthening Zero Trust and identity-aware networking** using segmentation, NAC, AAA, policy-driven access, and continuous network security controls.
 
 ---
 
@@ -263,11 +287,13 @@ Designed a resilient enterprise network architecture using redundant routing, fi
 
 <p>
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC--Council-CEH-C00000?style=for-the-badge"/>
 </p>
 
 ### 📚 Currently Preparing For
 
-`AWS Solutions Architect` • `Microsoft Azure` • `Terraform` • `Kubernetes`
+`CCNP`
 
 ---
 
@@ -320,7 +346,6 @@ I also enjoy intentionally breaking network labs and troubleshooting them — be
 ## 🔥 Beyond the Terminal
 
 Outside of network configurations and packet captures, I enjoy exploring developments in **AI, cybersecurity, cloud-native infrastructure, automation, and emerging technology**.
-
 I also enjoy building hands-on labs, experimenting with new architectures, and turning technical concepts into practical projects that improve how infrastructure is **designed, secured, automated, and operated**.
 
 ---
