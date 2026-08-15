@@ -17,8 +17,8 @@
 
 Network Engineer with **5+ years of experience** building and supporting **secure, reliable, and highly available enterprise networks**. I work across **routing, switching, network security, cloud networking, monitoring, and automation**, with hands-on experience in **BGP, OSPF, MPLS, Palo Alto, Fortinet, AWS/Azure networking, Python, Ansible, Terraform, Wireshark, and SolarWinds**. 
 
-My focus is simple: **_Keep Networks Stable, Secure, Observable, and Scalable._
-**
+My principle: ***Keep Networks Stable, Secure, Observable, and Scalable.***
+
 ---
 
 ## 🖱️ Explore My Skills
