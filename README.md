@@ -13,6 +13,58 @@ Designing, securing, automating, and troubleshooting reliable enterprise network
   <img src="https://img.shields.io/badge/Network%20Automation-7B42BC?style=for-the-badge"/>
 </p>
 
+
+---<h1 align="center">Hi 👋, I'm Anitha</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Network+Engineer+%7C+Network+Security;Cloud+Networking+%7C+Network+Automation;AI-Ready+Data+Center+Networking;Agentic+NetOps+%7C+Network+Automation" />
+</p>
+
+<p align="center">
+Designing, securing, automating, and troubleshooting reliable enterprise networks.
+</p>
+---
+<table>
+<tr>
+<td width="60%">
+
+<h1>Hi 👋, I'm Anitha</h1>
+
+<h3>🌐 Network Engineer | Network Security</h3>
+
+<p>
+I work across enterprise networking, network security, cloud connectivity, troubleshooting, and infrastructure automation.
+</p>
+
+<p>
+Building secure, resilient, observable, and increasingly automated network environments.
+</p>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="YOUR_NETWORK_OR_TERMINAL_GIF_URL" width="350"/>
+
+</td>
+</tr>
+</table>
+-----
+<h1 align="center">Hi 👋, I'm Anitha</h1>
+
+<h3 align="center">🌐 Network Engineer | Network Security | Cloud Networking | Network Automation</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1300&center=true&vCenter=true&width=900&lines=Designing+secure+and+reliable+enterprise+networks;Automating+network+operations+with+Python+%26+Ansible;Exploring+AI-Ready+Networking+%26+Agentic+NetOps" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Network%20Engineering-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Network%20Security-EE3124?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20Networking-FF9900?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Network%20Automation-7B42BC?style=for-the-badge"/>
+</p>
+
 ---
 
 ## 👩‍💻 About Me
