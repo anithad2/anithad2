@@ -229,7 +229,7 @@ I focus on building and maintaining **secure, resilient, highly available, and o
 
 ---
 
-## 🚀 Network Engineering Projects
+## 🚀 Projects
 
 ### ☁️ Cloud Network Automation
 
@@ -280,24 +280,22 @@ Designed a resilient enterprise network architecture using redundant routing, fi
 
 ## 🎓 Certifications
 
-- 🛡️ **CompTIA Security+**
-- 🌐 **Cisco CCNA**
-- 🔐 **Certified Ethical Hacker (CEH) — uCertify**
-- 🤖 **Oracle Generative AI**
+ 🛡️ **CompTIA Security+**
+ 🌐 **Cisco CCNA**
+ 🔐 **Certified Ethical Hacker (CEH) — uCertify**
+ 🤖 **Oracle Generative AI**
 
 ### 📚 Currently Preparing For
 
-`CCNP`
+🌐 **Cisco CCNA**
 
 ---
 
 ## 🎓 Education
 
-### Master of Science in Cybersecurity & Networks
+💼 **Master’s in Cybersecurity & Networking** 📍 **University of New Haven** 🎓 *Graduated May 2026*
 
-**University of New Haven**
-
-`Enterprise Network Design` • `Computer Networks` • `Wireless Networks` • `Computer Security` • `Cyber Forensics` • `Python` • `Ethical Hacking`
+_`Enterprise Network Design` | `Computer Networks` | `Wireless Networks` | `Computer Security` | `Python` | `Ethical Hacking`_
 
 ---
 
