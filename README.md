@@ -251,13 +251,11 @@ Designed a resilient enterprise network architecture using redundant routing, fi
 ---
 
 ## 🌱 Currently Learning & Exploring
+💡 I’m building AI-assisted network automation workflows using Python, Ansible, APIs, and telemetry to reduce repetitive tasks and speed up troubleshooting.
 
-💡 Building AI-assisted network automation workflows using Python, Ansible, APIs, and telemetry to reduce repetitive operational tasks and speed up troubleshooting.
-☁️ Designing hybrid and multi-cloud network architectures across AWS, Azure, and GCP with secure connectivity, centralized routing, and resilient traffic paths.
-🧠 Experimenting with Agentic NetOps and autonomous network operations for intelligent incident analysis, root-cause identification, and automated remediation workflows.
-🪞 Building network digital-twin and pre-change validation labs to test routing, security policies, and infrastructure changes before production deployment.
-⚡ Studying AI-ready data center networking including EVPN/VXLAN fabrics, high-speed Ethernet, scalable leaf-spine designs, and modern network architectures for AI workloads.
-🔐 Strengthening Zero Trust and identity-aware networking using segmentation, NAC, AAA, policy-driven access, and continuous network security controls.
+⚡ I’m expanding my knowledge of AI-ready data center networking, including EVPN/VXLAN, high-speed Ethernet, leaf-spine fabrics, and scalable architectures for AI workloads.
+
+🧠 I’m exploring Agentic NetOps, autonomous operations, and Zero Trust networking to improve incident analysis, automated remediation, segmentation, NAC, and policy-driven access.
 
 ---
 
