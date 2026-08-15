@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Network%20Security-EE3124?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cloud%20Networking-FF9900?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Network%20Automation-7B42BC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Network%20Administrator-7B42BC?style=for-the-badge"/>
 </p>
 
 <p align="center">
