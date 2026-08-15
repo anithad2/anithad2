@@ -213,7 +213,7 @@ I focus on building and maintaining **secure, resilient, highly available, and o
 
 ---
 
-## 🚀 Projects
+## 🔀 Projects
 
 ### ☁️ Cloud Network Automation
 
@@ -321,7 +321,7 @@ I also enjoy building hands-on labs, experimenting with new architectures, and t
 
 ---
 
-## 🤝 Let's Connect & Collaborate 🚀
+## 🤝 Let's Connect & Collaborate 
 
 <p>
 📧 <b>Email:</b> <a href="mailto:danithad25@gmail.com">danithad25@gmail.com</a>
