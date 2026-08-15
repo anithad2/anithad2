@@ -310,7 +310,7 @@ Observability         ████████████████░░░�
 
 ---
 
-## 🔥 Fun Fact
+## 🎯 Fun Fact
 
 Outside of network configurations and packet captures, I enjoy exploring developments in **AI, cybersecurity, cloud-native infrastructure, automation, and emerging technology**.
 
