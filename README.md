@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-<i>_Designing, securing, automating, and troubleshooting reliable enterprise networks_</i>
+  <i>Designing, securing, automating, and troubleshooting reliable enterprise networks.</i>
 </p>
 
 
