@@ -213,7 +213,7 @@ I focus on building and maintaining **secure, resilient, highly available, and o
 🛡️ Earned the **CompTIA Security+ Certification**
 🛡️Earned the **CCNA Certification** 
 
-## 🚀 Featured Network Engineering Projects
+## 🚀 Network Engineering Projects
 
 ### ☁️ Cloud Network Automation
 
@@ -250,34 +250,14 @@ Designed a resilient enterprise network architecture using redundant routing, fi
 
 ---
 
-## 🎯 Current Focus
-
-```text
-🌐 Enterprise Network Engineering
-        ↓
-🔀 Advanced Routing & Switching
-        ↓
-🛡️ Network Security
-        ↓
-☁️ Hybrid & Multi-Cloud Networking
-        ↓
-🤖 Network Automation
-        ↓
-📡 Network Observability
-        ↓
-🚀 Highly Available Infrastructure
-````
-
----
-
 ## 🌱 Currently Learning & Exploring
 
-* 🌐 Advanced BGP & Enterprise Routing Design
-* ☁️ Hybrid & Multi-Cloud Networking
-* 🔐 Network Security & Zero Trust Architecture
-* ⚙️ Infrastructure Automation with Python & Ansible
-* 📡 Network Observability & Performance Engineering
-* 🤖 AI for Network Operations & Infrastructure Automation
+💡 Building AI-assisted network automation workflows using Python, Ansible, APIs, and telemetry to reduce repetitive operational tasks and speed up troubleshooting.
+☁️ Designing hybrid and multi-cloud network architectures across AWS, Azure, and GCP with secure connectivity, centralized routing, and resilient traffic paths.
+🧠 Experimenting with Agentic NetOps and autonomous network operations for intelligent incident analysis, root-cause identification, and automated remediation workflows.
+🪞 Building network digital-twin and pre-change validation labs to test routing, security policies, and infrastructure changes before production deployment.
+⚡ Studying AI-ready data center networking including EVPN/VXLAN fabrics, high-speed Ethernet, scalable leaf-spine designs, and modern network architectures for AI workloads.
+🔐 Strengthening Zero Trust and identity-aware networking using segmentation, NAC, AAA, policy-driven access, and continuous network security controls.
 
 ---
 
