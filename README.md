@@ -59,9 +59,8 @@ I focus on building and maintaining **secure, resilient, highly available, and o
 
 ## 🏆 Achievements & Honors
 
-🏅 Upsilon Pi Epsilon (UPE) Induction — April 2026
-_Recognized for academic excellence in computing and cybersecurity.
-_
+🏅 Upsilon Pi Epsilon (UPE) Induction — _Recognized for academic excellence in computing and cybersecurity._
+
 🎖️ Provost’s Assistantship — _Awarded 75% tuition assistance in recognition of academic merit._
 
 💰 Academic Excellence Cash Award - _Awarded for outstanding undergraduate academic performance._
