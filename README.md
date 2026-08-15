@@ -21,8 +21,6 @@ I'm a **Network Engineer with 5+ years of experience** supporting enterprise LAN
 
 I focus on building and maintaining **secure, resilient, highly available, and observable network environments** across enterprise infrastructure and cloud platforms.
 
-
-
 🌐 **Enterprise LAN/WAN & MPLS Networking**
 
 🔄 **BGP, OSPF & EIGRP Routing**
@@ -38,36 +36,6 @@ I focus on building and maintaining **secure, resilient, highly available, and o
 🔍 **Packet Analysis & Root Cause Troubleshooting**
 
 🏢 **High Availability & Network Resiliency**
-
----
-
-## 🚧 Currently Working On
-
-🤖 Building network automation workflows using Python, Ansible, APIs, and infrastructure automation practices.
-
-☁️ Automating AWS and Azure network infrastructure using Terraform for repeatable and consistent deployments.
-
-🌐 Practicing advanced routing and data center designs with BGP, OSPF, MPLS, EVPN/VXLAN, and leaf-spine architectures.
-
-🔐 Building hands-on Zero Trust and enterprise network security labs focused on segmentation, secure access, and policy enforcement.
-
-📡 Improving network observability and troubleshooting using Wireshark, SNMP, NetFlow, SolarWinds, and PRTG.
-
-⚙️ Creating reusable networking and automation projects to document practical network engineering solutions on GitHub.
-
----
-
-## 🏆 Achievements & Honors
-
-🏅 Upsilon Pi Epsilon (UPE) Induction — _Recognized for academic excellence in computing and cybersecurity._
-
-🎖️ Provost’s Assistantship — _Awarded 75% tuition assistance in recognition of academic merit._
-
-💰 Academic Excellence Cash Award - _Awarded for outstanding undergraduate academic performance._
-
-🏆 HCL Technologies — _Recognized for improving network reliability and resolving complex infrastructure issues._
-
-🏆 Wells Fargo — _Contributed to secure, highly available enterprise network operations and troubleshooting_
 
 ---
 
@@ -229,6 +197,22 @@ I focus on building and maintaining **secure, resilient, highly available, and o
 
 ---
 
+## 🚧 Currently Working On
+
+🤖 **Building network automation workflows** using Python, Ansible, APIs, and infrastructure automation practices.
+
+☁️ **Automating AWS and Azure network infrastructure** using Terraform for repeatable and consistent deployments.
+
+🌐 **Practicing advanced routing and data center designs** with BGP, OSPF, MPLS, EVPN/VXLAN, and leaf-spine architectures.
+
+🔐 **Building hands-on Zero Trust and enterprise network security labs** focused on segmentation, secure access, and policy enforcement.
+
+📡 **Improving network observability and troubleshooting** using Wireshark, SNMP, NetFlow, SolarWinds, and PRTG.
+
+⚙️ **Creating reusable networking and automation projects** to document practical network engineering solutions on GitHub.
+
+---
+
 ## 🚀 Projects
 
 ### ☁️ Cloud Network Automation
@@ -241,10 +225,10 @@ Automated cloud networking infrastructure using **Terraform and Ansible**, cover
 
 **Key Areas**
 
-- Infrastructure as Code
-- Automated Network Provisioning
-- Hybrid Cloud Connectivity
-- Configuration Consistency
+* Infrastructure as Code
+* Automated Network Provisioning
+* Hybrid Cloud Connectivity
+* Configuration Consistency
 
 ---
 
@@ -258,11 +242,30 @@ Designed a resilient enterprise network architecture using redundant routing, fi
 
 **Key Areas**
 
-- Network Redundancy
-- Dynamic Failover
-- Disaster Recovery
-- High Availability
-- Business Continuity
+* Network Redundancy
+* Dynamic Failover
+* Disaster Recovery
+* High Availability
+* Business Continuity
+
+---
+
+## 🏆 Achievements & Honors
+
+🏅 **Upsilon Pi Epsilon (UPE) Induction — April 2026**
+*Recognized for academic excellence in computing and cybersecurity.*
+
+🎖️ **Provost’s Assistantship — 75% Tuition Assistance**
+*Awarded 75% tuition assistance in recognition of academic merit.*
+
+💰 **Academic Excellence Cash Award**
+*Awarded for outstanding undergraduate academic performance.*
+
+🏆 **HCL Technologies — Network Engineering Achievement**
+*Recognized for improving network reliability and resolving complex infrastructure issues.*
+
+🏆 **Wells Fargo — Network Engineering Achievement**
+*Contributed to secure, highly available enterprise network operations and troubleshooting.*
 
 ---
 
@@ -284,13 +287,9 @@ Designed a resilient enterprise network architecture using redundant routing, fi
 
 🌐 **Cisco CCNA**
 
-🔐 **Certified Ethical Hacker (CEH)**  
+🔐 **Certified Ethical Hacker (CEH)**
 
 🤖 **Oracle Generative AI**
-
-### 📚 Currently Preparing For
-
-🌐 **Cisco CCNA**
 
 ---
 
@@ -298,7 +297,7 @@ Designed a resilient enterprise network architecture using redundant routing, fi
 
 💼 **Master’s in Cybersecurity & Networking** 📍 **University of New Haven** 🎓 *Graduated May 2026*
 
-_`Enterprise Network Design` | `Computer Networks` | `Wireless Networks` | `Computer Security` | `Python` | `Ethical Hacking`_
+*`Enterprise Network Design` | `Computer Networks` | `Wireless Networks` | `Computer Security` | `Python` | `Ethical Hacking`*
 
 ---
 
@@ -317,25 +316,23 @@ Observability         ████████████████░░░�
 ## 🔥 Fun Fact
 
 Outside of network configurations and packet captures, I enjoy exploring developments in **AI, cybersecurity, cloud-native infrastructure, automation, and emerging technology**.
+
 I also enjoy building hands-on labs, experimenting with new architectures, and turning technical concepts into practical projects that improve how infrastructure is **designed, secured, automated, and operated**.
 
 ---
 
-## Let's Connect & Collaborate 🚀
+## 🤝 Let's Connect & Collaborate 🚀
 
 <p>
-📧 <b>Email:</b> <a href="mailto:YOUR_EMAIL">_danithad25@gmail.com_</a>
+📧 <b>Email:</b> <a href="mailto:danithad25@gmail.com">danithad25@gmail.com</a>
 </p>
 
 <p>
-🔗 <b>LinkedIn:</b> <a href="YOUR_LINKEDIN_URL">_www.linkedin.com/in/anithaun_</a>
+🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/anithaun/">linkedin.com/in/anithaun</a>
 </p>
-
----
 
 ---
 
 <p align="center">
 🌐 <b>Build reliable networks. Secure every connection. Automate what can be automated.</b>
 </p>
-
