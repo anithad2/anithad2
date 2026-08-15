@@ -36,6 +36,21 @@ I focus on building and maintaining **secure, resilient, highly available, and o
 - 🔍 **Packet Analysis & Root Cause Troubleshooting**
 
 - 🏢 **High Availability & Network Resiliency**
+🌐 **Enterprise LAN/WAN & MPLS Networking**
+
+🔄 **BGP, OSPF & EIGRP Routing**
+
+🛡️ **Firewalls, VPNs & Network Security**
+
+☁️ **AWS, Azure & GCP Networking**
+
+📡 **Network Monitoring & Performance Analysis**
+
+🤖 **Python, Ansible & Terraform Automation**
+
+🔍 **Packet Analysis & Root Cause Troubleshooting**
+
+🏢 **High Availability & Network Resiliency**
 
 ---
 
