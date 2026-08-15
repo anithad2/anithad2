@@ -268,13 +268,13 @@ Designed a resilient enterprise network architecture using redundant routing, fi
 
 ## 🌱 Currently Exploring
 
-- ⚡ **Studying AI-ready data center networking** including EVPN/VXLAN fabrics, high-speed Ethernet, scalable leaf-spine designs, and modern network architectures for AI workloads.
-  
-- 💡 I'm **building AI-assisted network automation workflows** using Python, Ansible, APIs, and telemetry to reduce repetitive operational tasks and speed up troubleshooting.
+⚡ **Studying AI-ready data center networking** including EVPN/VXLAN fabrics, high-speed Ethernet, scalable leaf-spine designs, and modern network architectures for AI workloads.
 
-- 🧠 I’m exploring **Agentic NetOps**, **autonomous operations**, and **Zero Trust networking** to improve incident analysis, automated remediation, segmentation, NAC, and policy-driven access.
+💡 **Building AI-assisted network automation workflows** using Python, Ansible, APIs, and telemetry to reduce repetitive operational tasks and speed up troubleshooting.
 
-- 🔐 **Strengthening Zero Trust and identity-aware networking** using segmentation, NAC, AAA, policy-driven access, and continuous network security controls.
+🧠 **Exploring Agentic NetOps, autonomous operations, and Zero Trust networking** to improve incident analysis, automated remediation, segmentation, NAC, and policy-driven access.
+
+🔐 **Strengthening Zero Trust and identity-aware networking** using segmentation, NAC, AAA, policy-driven access, and continuous network security controls.
 
 ---
 
@@ -316,32 +316,22 @@ Observability         ████████████████░░░�
 
 ## 🔥 Fun Fact
 
-If I have to perform the same network task more than twice, I start thinking about how to **automate it with Python or Ansible**.
-
-I also enjoy intentionally breaking network labs and troubleshooting them — because understanding **why something failed** is often more interesting than simply making it work.
-
----
-
-## 🌐 Get in Touch
-
-<p>
-📧 <b>Email:</b> <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
-</p>
-
-<p>
-🔗 <b>LinkedIn:</b> <a href="YOUR_LINKEDIN_URL">Anitha Uppu</a>
-</p>
-
-<p>
-💻 <b>GitHub:</b> <a href="YOUR_GITHUB_URL">YOUR_GITHUB_USERNAME</a>
-</p>
-
----
-
-## 🔥 Beyond the Terminal
-
 Outside of network configurations and packet captures, I enjoy exploring developments in **AI, cybersecurity, cloud-native infrastructure, automation, and emerging technology**.
 I also enjoy building hands-on labs, experimenting with new architectures, and turning technical concepts into practical projects that improve how infrastructure is **designed, secured, automated, and operated**.
+
+---
+
+## Let's Connect & Collaborate 🚀
+
+<p>
+📧 <b>Email:</b> <a href="mailto:YOUR_EMAIL">_danithad25@gmail.com_</a>
+</p>
+
+<p>
+🔗 <b>LinkedIn:</b> <a href="YOUR_LINKEDIN_URL">_www.linkedin.com/in/anithaun_</a>
+</p>
+
+---
 
 ---
 
