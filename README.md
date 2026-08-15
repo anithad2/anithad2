@@ -330,11 +330,6 @@ I also enjoy building hands-on labs, experimenting with new architectures, and t
 </p>
 
 ---
-
-<p align="center">
-🌐 <b>Build reliable networks. Secure every connection. Automate what can be automated.</b>
-</p>
-
-<p align="center">
-🤝 <b>Let’s connect smarter.</b> 🛡️ <b>Secure every path.</b> ⚙️ <b>Engineer for uptime.</b> 🚀 <b>Automate for scale.</b>
+<p align="center"> 
+🌐 <b>Let’s connect smarter.</b> 🛡️ <b>Secure every path.</b> ⚙️ <b>Design for reliability and availability. Automate for scalability.</b>  
 </p>
