@@ -19,16 +19,39 @@ Designing, securing, automating, and troubleshooting reliable enterprise network
 
 I'm a **Network Engineer with 5+ years of experience** supporting enterprise LAN/WAN, routing, switching, network security, cloud connectivity, monitoring, troubleshooting, and infrastructure automation.
 
-I focus on maintaining **secure, resilient, and highly available network environments** across enterprise data centers and cloud platforms.
+I focus on building and maintaining **secure, resilient, highly available, and observable network environments** across enterprise infrastructure and cloud platforms.
 
-🌐 Enterprise LAN/WAN & MPLS Networking
-🔀 BGP, OSPF & EIGRP Routing
-🛡️ Firewalls, VPNs & Network Security
-☁️ AWS, Azure & GCP Networking
-📡 Network Monitoring & Performance Analysis
-🤖 Python, Ansible & Terraform Automation
-🔍 Packet Analysis & Root Cause Troubleshooting
-🏢 High Availability & Network Resiliency
+- 🌐 Enterprise LAN/WAN & MPLS Networking
+- 🔀 BGP, OSPF & EIGRP Routing
+- 🛡️ Firewalls, VPNs & Network Security
+- ☁️ AWS, Azure & GCP Networking
+- 📡 Network Monitoring & Performance Analysis
+- 🤖 Python, Ansible & Terraform Automation
+- 🔍 Packet Analysis & Root Cause Troubleshooting
+- 🏢 High Availability & Network Resiliency
+
+---
+
+## 🚧 Currently Working On
+
+- 🤖 Building **network automation workflows** using Python and Ansible
+- ☁️ Automating **AWS & Azure network infrastructure** with Terraform
+- 🔐 Improving hands-on knowledge of **Zero Trust and enterprise network security**
+- 📡 Building network monitoring and observability labs using **Wireshark, SNMP, NetFlow, and monitoring tools**
+- 🌐 Practicing advanced **BGP, OSPF, MPLS, EVPN/VXLAN, and hybrid-cloud networking**
+- ⚙️ Creating reusable infrastructure automation projects for my GitHub portfolio
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Completed a **Master of Science in Cybersecurity & Networks**
+- 🛡️ Earned the **CompTIA Security+ Certification**
+- 🌐 Built hands-on labs covering routing, switching, wireless networking, firewalls, VPNs, and network troubleshooting
+- ☁️ Worked with networking concepts across **AWS, Azure, and GCP**
+- 🤖 Developed practical experience with **Python, Ansible, Terraform, and infrastructure automation**
+- 🔍 Hands-on experience with packet analysis, root cause analysis, network monitoring, and performance troubleshooting
+- 📚 Continuously expanding skills across **network engineering, cloud networking, cybersecurity, and automation**
 
 ---
 
@@ -124,9 +147,9 @@ I focus on maintaining **secure, resilient, and highly available network environ
 
 <br>
 
-**Troubleshooting**
+**Troubleshooting Areas**
 
-`Latency` • `Packet Loss` • `DNS` • `DHCP` • `Routing` • `Bandwidth` • `Connectivity`
+`Latency` `Packet Loss` `DNS` `DHCP` `Routing` `Bandwidth` `Connectivity`
 
 </details>
 
@@ -148,7 +171,7 @@ I focus on maintaining **secure, resilient, and highly available network environ
 
 **Automation Areas**
 
-`Configuration Management` • `Network Provisioning` • `Device Backups` • `Compliance Checks`
+`Configuration Management` `Network Provisioning` `Device Backups` `Compliance Checks`
 
 </details>
 
@@ -190,7 +213,7 @@ I focus on maintaining **secure, resilient, and highly available network environ
 
 ---
 
-## Projects
+## 🚀 Featured Network Engineering Projects
 
 ### ☁️ Cloud Network Automation
 
@@ -200,7 +223,7 @@ Automated cloud network infrastructure using **Terraform and Ansible**, covering
 
 `AWS` • `Azure` • `Terraform` • `Ansible` • `Python` • `Git`
 
-**Focus**
+**Key Areas**
 
 - Infrastructure as Code
 - Automated Network Provisioning
@@ -211,13 +234,13 @@ Automated cloud network infrastructure using **Terraform and Ansible**, covering
 
 ### 🏢 Highly Available Enterprise Network
 
-Designed a resilient network architecture using redundant routing, firewall high availability, load balancing, and dynamic routing protocols.
+Designed a resilient enterprise network architecture using redundant routing, firewall high availability, load balancing, and dynamic routing protocols.
 
 **Tech Stack**
 
-`BGP` • `OSPF` • `MPLS` • `Firewalls` • `F5 BIG-IP` • `HA`
+`BGP` • `OSPF` • `MPLS` • `Firewalls` • `F5 BIG-IP` • `High Availability`
 
-**Focus**
+**Key Areas**
 
 - Network Redundancy
 - Dynamic Failover
@@ -226,32 +249,4 @@ Designed a resilient network architecture using redundant routing, firewall high
 - Business Continuity
 
 ---
-🌐 Get in Touch
 
-<p> 📧 <b>Email:</b> <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a> </p>
-
-<p> 🔗 <b>LinkedIn:</b> <a href="YOUR_LINKEDIN_URL">Anitha Uppu</a> </p>
-
-<p> 💻 <b>GitHub:</b> <a href="YOUR_GITHUB_URL">YOUR_GITHUB_USERNAME</a> </p>
-
-🔥 Beyond the Terminal
-
-When I'm not troubleshooting routes, analyzing packets, or automating infrastructure, I enjoy exploring developments in network engineering, cybersecurity, cloud networking, infrastructure automation, and AI-assisted network operations.
-
-I also enjoy building hands-on labs, testing network architectures, and finding better ways to make infrastructure simpler, more reliable, secure, and observable.
-
-🧰 Technologies & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,linux,aws,azure,gcp,terraform,ansible,docker,kubernetes,git,github,vscode,bash,powershell&perline=14" />
-
-</p>
-
-🌐 Networking
-
-<p> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge"/> <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge"/> <img src="https://img.shields.io/badge/Juniper-84B135?style=for-the-badge"/> <img src="https://img.shields.io/badge/F5_BIG--IP-E4002B?style=for-the-badge"/> </p>
-
-📡 Monitoring & Troubleshooting
-
-<p> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/SolarWinds-F99D1C?style=for-the-badge"/> <img src="https://img.shields.io/badge/PRTG-00A98F?style=for-the-badge"/> <img src="https://img.shields.io/badge/Nagios-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge"/> </p>
