@@ -1,16 +1,12 @@
 -----
 <h1 align="center">Hi 👋, I'm Anitha</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Network%20Engineering-0052CC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Network%20Security-EE3124?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Networking-FF9900?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Network%20Automation-7B42BC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Network%20Administrator-7B42BC?style=for-the-badge"/>
-</p>
+<h3 align="center">
+🌐 Network Engineer | Network Security | Cloud Networking | Network Automation
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1300&center=true&vCenter=true&width=900&lines=Design%2C+Secure+and+Reliable+Enterprise+Networks;Automating+network+operations+with+Python+%26+Ansible;Exploring+AI-Ready+Networking+%26+Agentic+NetOps" />
+<i>_Designing, securing, automating, and troubleshooting reliable enterprise networks_</i>
 </p>
 
 
