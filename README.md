@@ -43,38 +43,32 @@ I focus on building and maintaining **secure, resilient, highly available, and o
 
 ## 🚧 Currently Working On
 
-- 🤖 **Building network automation workflows** using Python, Ansible, APIs, and infrastructure automation practices.
+🤖 Building network automation workflows using Python, Ansible, APIs, and infrastructure automation practices.
 
-- ☁️ **Automating AWS and Azure network infrastructure** using Terraform for repeatable and consistent deployments.
+☁️ Automating AWS and Azure network infrastructure using Terraform for repeatable and consistent deployments.
 
-- 🌐 **Practicing advanced routing and data center designs** with BGP, OSPF, MPLS, EVPN/VXLAN, and leaf-spine architectures.
+🌐 Practicing advanced routing and data center designs with BGP, OSPF, MPLS, EVPN/VXLAN, and leaf-spine architectures.
 
-- 🔐 **Building hands-on Zero Trust and enterprise network security labs** focused on segmentation, secure access, and policy enforcement.
+🔐 Building hands-on Zero Trust and enterprise network security labs focused on segmentation, secure access, and policy enforcement.
 
-- 📡 **Improving network observability and troubleshooting** using Wireshark, SNMP, NetFlow, SolarWinds, and PRTG.
+📡 Improving network observability and troubleshooting using Wireshark, SNMP, NetFlow, SolarWinds, and PRTG.
 
-- ⚙️ **Creating reusable networking and automation projects** to document practical network engineering solutions on GitHub.
+⚙️ Creating reusable networking and automation projects to document practical network engineering solutions on GitHub.
 
 ---
 
 ## 🏆 Achievements & Honors
 
-- 🏅 **Upsilon Pi Epsilon (UPE) Induction — April 2026**  
-  Recognized for academic excellence in computing and cybersecurity.
+🏅 Upsilon Pi Epsilon (UPE) Induction — April 2026
+_Recognized for academic excellence in computing and cybersecurity.
+_
+🎖️ Provost’s Assistantship — _Awarded 75% tuition assistance in recognition of academic merit._
 
-- 🎖️ **Provost Scholarship — 75% Tuition Award**  
-  Awarded a 75% scholarship for my master’s program based on academic merit.
-  
-- 💰 **Academic Excellence Cash Award**  
-  Awarded for outstanding academic performance for my undergraduate's program.
+💰 Academic Excellence Cash Award - _Awarded for outstanding undergraduate academic performance._
 
-- 🏆 **HCL Technologies — Network Engineering Achievement**  
-  Recognized for improving network reliability and supporting timely resolution of complex infrastructure issues.
+🏆 HCL Technologies — _Recognized for improving network reliability and resolving complex infrastructure issues._
 
-- 🏆 **Wells Fargo — Network Engineering Achievement**  
-  Contributed to secure, highly available network operations and improved troubleshooting across enterprise environments.
-
-
+🏆 Wells Fargo — _Contributed to secure, highly available enterprise network operations and troubleshooting_
 
 ---
 
