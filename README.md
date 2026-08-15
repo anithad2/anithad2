@@ -21,42 +21,40 @@ I'm a **Network Engineer with 5+ years of experience** supporting enterprise LAN
 
 I focus on building and maintaining **secure, resilient, highly available, and observable network environments** across enterprise infrastructure and cloud platforms.
 
-- 🌐 Enterprise LAN/WAN & MPLS Networking
-- 🔀 BGP, OSPF & EIGRP Routing
-- 🛡️ Firewalls, VPNs & Network Security
-- ☁️ AWS, Azure & GCP Networking
-- 📡 Network Monitoring & Performance Analysis
-- 🤖 Python, Ansible & Terraform Automation
-- 🔍 Packet Analysis & Root Cause Troubleshooting
-- 🏢 High Availability & Network Resiliency
+🌐 Enterprise LAN/WAN & MPLS Networking
+🔀 BGP, OSPF & EIGRP Routing
+🛡️ Firewalls, VPNs & Network Security
+☁️ AWS, Azure & GCP Networking
+📡 Network Monitoring & Performance Analysis
+🤖 Python, Ansible & Terraform Automation
+🔍 Packet Analysis & Root Cause Troubleshooting
+🏢 High Availability & Network Resiliency
 
 ---
 
 ## 🚧 Currently Working On
 
-- 🤖 Building network automation workflows using **Python and Ansible**
-- ☁️ Automating AWS and Azure network infrastructure using **Terraform**
-- 🌐 Practicing advanced routing designs with **BGP, OSPF, MPLS, EVPN/VXLAN**
-- 🔐 Building hands-on labs around **Zero Trust and enterprise network security**
-- 📡 Improving network observability using **Wireshark, SNMP, NetFlow, SolarWinds, and PRTG**
-- ⚙️ Creating reusable infrastructure automation and networking projects for GitHub
+🤖 Building network automation workflows using **Python & Ansible**
+☁️ Automating AWS and Azure network infrastructure using **Terraform**
+🌐 Practicing advanced routing designs with **BGP, OSPF, MPLS & EVPN/VXLAN**
+🔐 Building hands-on labs around **Zero Trust & enterprise network security**
+📡 Improving network observability using **Wireshark, SNMP, NetFlow, SolarWinds & PRTG**
+⚙️ Creating reusable networking and infrastructure automation projects for GitHub
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Honors
 
-- 🎓 Completed a **Master of Science in Cybersecurity & Networks**
-- 🛡️ Earned the **CompTIA Security+ Certification**
-- 🌐 Built hands-on labs covering routing, switching, wireless networking, firewalls, VPNs, and troubleshooting
-- ☁️ Worked with networking concepts across **AWS, Azure, and GCP**
-- 🤖 Developed hands-on experience with **Python, Ansible, Terraform, and network automation**
-- 🔍 Practiced packet analysis, root cause analysis, network monitoring, and performance troubleshooting
+🎓 Completed a **Master of Science in Cybersecurity & Networks**
+🎓 Upsilon Pi Epsilon (UPE) Induction — April 2026
+💰 Academic Excellence Cash Award
+ 
 
 ---
 
 ## 🖱️ Explore My Skills
 
-<details open>
+<details>
 <summary><b>🔄 Routing & Switching</b></summary>
 <br>
 
@@ -68,7 +66,7 @@ I focus on building and maintaining **secure, resilient, highly available, and o
 
 </details>
 
-<details open>
+<details>
 <summary><b>🛡️ Network Security</b></summary>
 <br>
 
@@ -211,6 +209,9 @@ I focus on building and maintaining **secure, resilient, highly available, and o
 </details>
 
 ---
+## Certifications
+🛡️ Earned the **CompTIA Security+ Certification**
+🛡️Earned the **CCNA Certification** 
 
 ## 🚀 Featured Network Engineering Projects
 
@@ -286,7 +287,7 @@ Designed a resilient enterprise network architecture using redundant routing, fi
   <img src="https://img.shields.io/badge/CompTIA-Security%2B-EA1D2C?style=for-the-badge&logo=comptia&logoColor=white"/>
 </p>
 
-**Currently Preparing For**
+### 📚 Currently Preparing For
 
 `AWS Solutions Architect` • `Microsoft Azure` • `Terraform` • `Kubernetes`
 
@@ -314,7 +315,15 @@ Observability         ████████████████░░░�
 
 ---
 
-## 🌐 Let's Connect on
+## 🔥 Fun Fact
+
+If I have to perform the same network task more than twice, I start thinking about how to **automate it with Python or Ansible**.
+
+I also enjoy intentionally breaking network labs and troubleshooting them — because understanding **why something failed** is often more interesting than simply making it work.
+
+---
+
+## 🌐 Get in Touch
 
 <p>
 📧 <b>Email:</b> <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a>
@@ -329,14 +338,16 @@ Observability         ████████████████░░░�
 </p>
 
 ---
-## 🔥 Fun Fact
 
-When I'm not troubleshooting routes, analyzing packets, or automating infrastructure, I enjoy exploring emerging technology trends and keeping up with developments in **AI, cloud-native architectures, network engineering, cybersecurity, and infrastructure automation**.
+## 🔥 Beyond the Terminal
 
-I also enjoy building hands-on labs, testing network architectures, and figuring out how to make infrastructure **simpler, more reliable, more secure, and easier to observe**.
+Outside of network configurations and packet captures, I enjoy exploring developments in **AI, cybersecurity, cloud-native infrastructure, automation, and emerging technology**.
+
+I also enjoy building hands-on labs, experimenting with new architectures, and turning technical concepts into practical projects that improve how infrastructure is **designed, secured, automated, and operated**.
 
 ---
+
 <p align="center">
 🌐 <b>Build reliable networks. Secure every connection. Automate what can be automated.</b>
 </p>
-```
+
