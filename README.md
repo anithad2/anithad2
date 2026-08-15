@@ -226,20 +226,32 @@ Designed a resilient network architecture using redundant routing, firewall high
 - Business Continuity
 
 ---
+🌐 Get in Touch
 
-## 🎯 Current Focus
+<p> 📧 <b>Email:</b> <a href="mailto:YOUR_EMAIL">YOUR_EMAIL</a> </p>
 
-```text
-🌐 Enterprise Networking
-        ↓
-🔀 Advanced Routing & Switching
-        ↓
-🛡️ Network Security
-        ↓
-☁️ Hybrid Cloud Networking
-        ↓
-🤖 Network Automation
-        ↓
-📡 Network Observability
-        ↓
-🚀 Highly Available Infrastructure
+<p> 🔗 <b>LinkedIn:</b> <a href="YOUR_LINKEDIN_URL">Anitha Uppu</a> </p>
+
+<p> 💻 <b>GitHub:</b> <a href="YOUR_GITHUB_URL">YOUR_GITHUB_USERNAME</a> </p>
+
+🔥 Beyond the Terminal
+
+When I'm not troubleshooting routes, analyzing packets, or automating infrastructure, I enjoy exploring developments in network engineering, cybersecurity, cloud networking, infrastructure automation, and AI-assisted network operations.
+
+I also enjoy building hands-on labs, testing network architectures, and finding better ways to make infrastructure simpler, more reliable, secure, and observable.
+
+🧰 Technologies & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,linux,aws,azure,gcp,terraform,ansible,docker,kubernetes,git,github,vscode,bash,powershell&perline=14" />
+
+</p>
+
+🌐 Networking
+
+<p> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge"/> <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge"/> <img src="https://img.shields.io/badge/Juniper-84B135?style=for-the-badge"/> <img src="https://img.shields.io/badge/F5_BIG--IP-E4002B?style=for-the-badge"/> </p>
+
+📡 Monitoring & Troubleshooting
+
+<p> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/SolarWinds-F99D1C?style=for-the-badge"/> <img src="https://img.shields.io/badge/PRTG-00A98F?style=for-the-badge"/> <img src="https://img.shields.io/badge/Nagios-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge"/> </p>
