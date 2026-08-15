@@ -15,26 +15,10 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Network Engineer with 5+ years of experience** supporting enterprise LAN/WAN, routing, switching, network security, cloud connectivity, monitoring, troubleshooting, and infrastructure automation.
+Network Engineer with **5+ years of experience** building and supporting **secure, reliable, and highly available enterprise networks**. I work across **routing, switching, network security, cloud networking, monitoring, and automation**, with hands-on experience in **BGP, OSPF, MPLS, Palo Alto, Fortinet, AWS/Azure networking, Python, Ansible, Terraform, Wireshark, and SolarWinds**. 
 
-I focus on building and maintaining **secure, resilient, highly available, and observable network environments** across enterprise infrastructure and cloud platforms.
-
-🌐 **Enterprise LAN/WAN & MPLS Networking**
-
-🔄 **BGP, OSPF & EIGRP Routing**
-
-🛡️ **Firewalls, VPNs & Network Security**
-
-☁️ **AWS, Azure & GCP Networking**
-
-📡 **Network Monitoring & Performance Analysis**
-
-🤖 **Python, Ansible & Terraform Automation**
-
-🔍 **Packet Analysis & Root Cause Troubleshooting**
-
-🏢 **High Availability & Network Resiliency**
-
+My focus is simple: **_Keep Networks Stable, Secure, Observable, and Scalable._
+**
 ---
 
 ## 🖱️ Explore My Skills
