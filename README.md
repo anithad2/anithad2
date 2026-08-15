@@ -331,5 +331,5 @@ I also enjoy building hands-on labs, experimenting with new architectures, and t
 
 ---
 <p align="center"> 
-🌐 <b>Let’s connect smarter.</b> 🛡️ <b>Secure every path.</b> ⚙️ <b>Design for reliability and availability. Automate for scalability.</b>  
+🌐 <b><i>Let’s connect smarter.</i></b> 🛡️ <b><i>Secure every path.</i></b> ⚙️ <b><i>Engineer for reliability, availability, and scalability.</i></b>  
 </p>
